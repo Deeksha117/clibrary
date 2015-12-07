@@ -4,6 +4,7 @@
 #include <iostream>
 #include <stack>
 #include <stdlib.h>
+#include <algorithm>
 using namespace std;
 
 #define SIZE 1000
